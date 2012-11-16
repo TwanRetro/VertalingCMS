@@ -1,4 +1,4 @@
-VertalingCMS
+LxCMS V2 A
 ============
 
-VertalingCMS
+NEDERLANDS BY TWAN & EMIEL
